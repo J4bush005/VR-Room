@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -318,22 +318,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Samples
+    - Assets/TextMesh Pro/Sprites
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Samples
+  - Assets/TextMesh Pro/Sprites
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\jtfor\git\VR-Room
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 706.2}
-    m_SelectedIDs: 9a7b0000
-    m_LastClickedID: 31642
-    m_ExpandedIDs: 00000000107b0000127b0000147b0000167b0000187b00001a7b00001c7b00001e7b0000207b0000227b0000247b0000267b0000287b00002a7b00002c7b000000ca9a3b
+    scrollPos: {x: 0, y: 101.01372}
+    m_SelectedIDs: ac7b0000
+    m_LastClickedID: 31660
+    m_ExpandedIDs: 00000000107b0000167b0000187b00001a7b00001e7b00002c7b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -388,7 +388,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000dc720000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -453,7 +453,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 918
+  m_LastVerticalScrollValue: 1026
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -490,10 +490,10 @@ MonoBehaviour:
     m_SaveData: []
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 2cfbffff
+      scrollPos: {x: 0, y: 190}
+      m_SelectedIDs: 2a710000
+      m_LastClickedID: 28970
+      m_ExpandedIDs: 42faffff2cfbffff1a710000047200008a720000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -776,9 +776,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.41358954, y: 1.3395646, z: 1.970886}
+    m_Target: {x: 0.098040715, y: -1.837171, z: 9.692072}
     speed: 2
-    m_Value: {x: 0.41358954, y: 1.3395646, z: 1.970886}
+    m_Value: {x: 0.098040715, y: -1.837171, z: 9.692072}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -825,13 +825,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.05487067, y: 0.023001477, z: -0.0012494287, w: -0.9982658}
+    m_Target: {x: 0.12148224, y: -0.022858577, z: 0.0027975147, w: 0.9923693}
     speed: 2
-    m_Value: {x: -0.054870673, y: 0.023001477, z: -0.0012494287, w: -0.9982658}
+    m_Value: {x: 0.12148113, y: -0.021369088, z: 0.0026151768, w: 0.99236023}
   m_Size:
-    m_Target: 1.6489381
+    m_Target: 5.1185527
     speed: 2
-    m_Value: 1.5779312
+    m_Value: 5.1185527
   m_Ortho:
     m_Target: 0
     speed: 2
